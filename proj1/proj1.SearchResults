@@ -1,0 +1,2 @@
+---- sensor_modify_default_linkage Matches (1 in 1 files) ----
+Sensormanager.c (demos\application\youpon):static void sensor_modify_default_linkage(uint8_t sensor_mac[], uint8_t dev_mac[], int linkage_value,  int sensor_type, int dev_endpoint, int actions_val)
